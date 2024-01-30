@@ -1,0 +1,1275 @@
+DEBUG:__main__:test
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-18 23:34:22.951440+02:00 (in 19.998976 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-18 23:34:22 SAST)" (scheduled at 2024-01-18 23:34:22.951440+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-18 23:34:42.951440+02:00 (in 19.989813 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-18 23:34:42 SAST)" executed successfully
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+TypeError: JobExecutionEvent.__init__() missing 3 required positional arguments: 'job_id', 'jobstore', and 'scheduled_run_time'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-18 23:47:34.994663+02:00 (in 19.997995 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-18 23:47:34 SAST)" (scheduled at 2024-01-18 23:47:34.994663+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-18 23:47:54.994663+02:00 (in 19.995650 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-18 23:47:54 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 00:06:11.139889+02:00 (in 19.998000 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 00:06:11 SAST)" (scheduled at 2024-01-19 00:06:11.139889+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 00:06:31.139889+02:00 (in 19.997961 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 00:06:31 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 00:10:29.550517+02:00 (in 19.998003 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 00:10:29 SAST)" (scheduled at 2024-01-19 00:10:29.550517+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 00:10:49.550517+02:00 (in 19.984987 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 00:10:49 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:26:52.101606+02:00 (in 19.998004 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:26:52 SAST)" (scheduled at 2024-01-19 01:26:52.101606+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:27:12.101606+02:00 (in 19.993557 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:27:12 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:33:23.423252+02:00 (in 19.998000 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:33:23 SAST)" (scheduled at 2024-01-19 01:33:23.423252+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:33:43.423252+02:00 (in 19.987780 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:33:43 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:38:48.905294+02:00 (in 19.998482 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:38:48 SAST)" (scheduled at 2024-01-19 01:38:48.905294+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:39:08.905294+02:00 (in 19.992813 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:39:08 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:40:18.689523+02:00 (in 19.997996 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:40:18 SAST)" (scheduled at 2024-01-19 01:40:18.689523+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:40:38.689523+02:00 (in 19.990321 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:40:38 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:42:52.046870+02:00 (in 19.997973 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:42:52 SAST)" (scheduled at 2024-01-19 01:42:52.046870+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:43:12.046870+02:00 (in 19.992762 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:43:12 SAST)" executed successfully
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobEvent' object has no attribute 'exception'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:43:32.508319+02:00 (in 19.991835 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:43:32 SAST)" (scheduled at 2024-01-19 01:43:32.508319+02:00)
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobSubmissionEvent' object has no attribute 'exception'
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:43:52 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:43:52.508319+02:00 (in 19.988310 seconds)
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobEvent' object has no attribute 'exception'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 01:59:45.255256+02:00 (in 19.996474 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 01:59:45 SAST)" (scheduled at 2024-01-19 01:59:45.255256+02:00)
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobSubmissionEvent' object has no attribute 'exception'
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:00:05 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:00:05.255256+02:00 (in 19.987457 seconds)
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobEvent' object has no attribute 'exception'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'SchedulerEvent' object has no attribute 'exception'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:01:16.019748+02:00 (in 19.997000 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:01:16 SAST)" (scheduled at 2024-01-19 02:01:16.019748+02:00)
+ERROR:apscheduler.scheduler:Error notifying listener
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\schedulers\base.py", line 845, in _dispatch_event
+    cb(event)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 138, in my_listener
+    if event.exception:
+AttributeError: 'JobSubmissionEvent' object has no attribute 'exception'
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:01:36 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:01:36.019748+02:00 (in 19.998012 seconds)
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:14:13.169959+02:00 (in 19.999000 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:14:13 SAST)" (scheduled at 2024-01-19 02:14:13.169959+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:14:33.169959+02:00 (in 19.992345 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:14:33 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:58:37.355256+02:00 (in 19.997432 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:58:37 SAST)" (scheduled at 2024-01-19 02:58:37.355256+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:58:57.355256+02:00 (in 19.985010 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:58:57 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-19 02:59:17.355256+02:00 (in 19.990788 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:59:17 SAST)" (scheduled at 2024-01-19 02:58:57.355256+02:00)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-19 02:59:17 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 00:53:12.373984+02:00 (in 19.998002 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:53:12 SAST)" (scheduled at 2024-01-30 00:53:12.373984+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 00:53:32.373984+02:00 (in 19.995404 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:53:32 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 00:53:52.373984+02:00 (in 19.986018 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:53:52 SAST)" (scheduled at 2024-01-30 00:53:32.373984+02:00)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:53:52 SAST)" executed successfully
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 00:54:12.373984+02:00 (in 19.996426 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:54:12 SAST)" (scheduled at 2024-01-30 00:53:52.373984+02:00)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 00:54:12 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:00:00.599846+02:00 (in 19.998001 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:00:00 SAST)" (scheduled at 2024-01-30 01:00:00.599846+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:00:20.599846+02:00 (in 19.995462 seconds)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:00:20 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict3\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:00:40.599846+02:00 (in 19.986362 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:00:40 SAST)" (scheduled at 2024-01-30 01:00:20.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:00:40 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict4\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:01:00.599846+02:00 (in 19.998613 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:00 SAST)" (scheduled at 2024-01-30 01:00:40.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:00 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict5\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:01:20.599846+02:00 (in 19.985113 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:20 SAST)" (scheduled at 2024-01-30 01:01:00.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:20 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict6\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:01:40.599846+02:00 (in 19.993189 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:40 SAST)" (scheduled at 2024-01-30 01:01:20.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:01:40 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict7\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:02:00.599846+02:00 (in 19.996296 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:00 SAST)" (scheduled at 2024-01-30 01:01:40.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:00 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict8\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:02:20.599846+02:00 (in 19.986635 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:20 SAST)" (scheduled at 2024-01-30 01:02:00.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:20 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict9\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:02:40.599846+02:00 (in 19.988389 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:40 SAST)" (scheduled at 2024-01-30 01:02:20.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:02:40 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict10\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:03:00.599846+02:00 (in 19.987888 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:03:00 SAST)" (scheduled at 2024-01-30 01:02:40.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:03:00 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict11\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:03:20.599846+02:00 (in 19.994060 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:03:20 SAST)" (scheduled at 2024-01-30 01:03:00.599846+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:03:20 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict12\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:04:02.832527+02:00 (in 19.998001 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:04:02 SAST)" (scheduled at 2024-01-30 01:04:02.832527+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:04:22.832527+02:00 (in 19.990510 seconds)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:04:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict13\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:04:42.832527+02:00 (in 19.998915 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:04:42 SAST)" (scheduled at 2024-01-30 01:04:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:04:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict14\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:05:02.832527+02:00 (in 19.986360 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:02 SAST)" (scheduled at 2024-01-30 01:04:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict15\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:05:22.832527+02:00 (in 19.984302 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:22 SAST)" (scheduled at 2024-01-30 01:05:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict16\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:05:42.832527+02:00 (in 19.984025 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:42 SAST)" (scheduled at 2024-01-30 01:05:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:05:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict17\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:06:02.832527+02:00 (in 19.998104 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:02 SAST)" (scheduled at 2024-01-30 01:05:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict18\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:06:22.832527+02:00 (in 19.983857 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:22 SAST)" (scheduled at 2024-01-30 01:06:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict19\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:06:42.832527+02:00 (in 19.999666 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:42 SAST)" (scheduled at 2024-01-30 01:06:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:06:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict20\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:07:02.832527+02:00 (in 19.996248 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:02 SAST)" (scheduled at 2024-01-30 01:06:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict21\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:07:22.832527+02:00 (in 19.994953 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:22 SAST)" (scheduled at 2024-01-30 01:07:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict22\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:07:42.832527+02:00 (in 19.985260 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:42 SAST)" (scheduled at 2024-01-30 01:07:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:07:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict23\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:08:02.832527+02:00 (in 19.988780 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:02 SAST)" (scheduled at 2024-01-30 01:07:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict24\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:08:22.832527+02:00 (in 19.997833 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:22 SAST)" (scheduled at 2024-01-30 01:08:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict25\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:08:42.832527+02:00 (in 19.996773 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:42 SAST)" (scheduled at 2024-01-30 01:08:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:08:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict26\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:09:02.832527+02:00 (in 19.992286 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:02 SAST)" (scheduled at 2024-01-30 01:08:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict27\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:09:22.832527+02:00 (in 19.991939 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:22 SAST)" (scheduled at 2024-01-30 01:09:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict28\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:09:42.832527+02:00 (in 19.994601 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:42 SAST)" (scheduled at 2024-01-30 01:09:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:09:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict29\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:10:02.832527+02:00 (in 19.993396 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:02 SAST)" (scheduled at 2024-01-30 01:09:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict30\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:10:22.832527+02:00 (in 19.985658 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:22 SAST)" (scheduled at 2024-01-30 01:10:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict31\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:10:42.832527+02:00 (in 19.998598 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:42 SAST)" (scheduled at 2024-01-30 01:10:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:10:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict32\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:11:02.832527+02:00 (in 19.995002 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:02 SAST)" (scheduled at 2024-01-30 01:10:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict33\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:11:22.832527+02:00 (in 19.991077 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:22 SAST)" (scheduled at 2024-01-30 01:11:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict34\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:11:42.832527+02:00 (in 19.998974 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:42 SAST)" (scheduled at 2024-01-30 01:11:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:11:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict35\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:12:02.832527+02:00 (in 19.988375 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:02 SAST)" (scheduled at 2024-01-30 01:11:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict36\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:12:22.832527+02:00 (in 19.997377 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:22 SAST)" (scheduled at 2024-01-30 01:12:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict37\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:12:42.832527+02:00 (in 19.986413 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:42 SAST)" (scheduled at 2024-01-30 01:12:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:12:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict38\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:13:02.832527+02:00 (in 19.991325 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:02 SAST)" (scheduled at 2024-01-30 01:12:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict39\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:13:22.832527+02:00 (in 19.991231 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:22 SAST)" (scheduled at 2024-01-30 01:13:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict40\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:13:42.832527+02:00 (in 19.991912 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:42 SAST)" (scheduled at 2024-01-30 01:13:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:13:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict41\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:14:02.832527+02:00 (in 19.995907 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:02 SAST)" (scheduled at 2024-01-30 01:13:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict42\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:14:22.832527+02:00 (in 19.997671 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:22 SAST)" (scheduled at 2024-01-30 01:14:02.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:22 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict43\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:14:42.832527+02:00 (in 19.996250 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:42 SAST)" (scheduled at 2024-01-30 01:14:22.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:14:42 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict44\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:15:02.832527+02:00 (in 19.995275 seconds)
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:15:02 SAST)" (scheduled at 2024-01-30 01:14:42.832527+02:00)
+ERROR:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:15:02 SAST)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\flask_apschedulerv6.py", line 72, in main
+    results = model.predict(image_strings, save=True, save_txt=True)  # return a list of Results objects
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\model.py", line 242, in predict
+    return self.predictor.predict_cli(source=source) if is_cli else self.predictor(source=source, stream=stream)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 196, in __call__
+    return list(self.stream_inference(source, model, *args, **kwargs))  # merge list of Result into one
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\torch\utils\_contextlib.py", line 35, in generator_context
+    response = gen.send(None)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 278, in stream_inference
+    s += self.write_results(i, self.results, (p, im, im0))
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\predictor.py", line 179, in write_results
+    result.save_txt(f'{self.txt_path}.txt', save_conf=self.args.save_conf)
+  File "C:\Users\julia\PycharmProjects\PPE_Detection_Yolov8\venv\lib\site-packages\ultralytics\engine\results.py", line 310, in save_txt
+    with open(txt_file, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'runs\\detect\\predict45\\labels\\group-miners-helmets-descend-into-mine-formation-high-resolution-illustration-work-salary-health-safety-responsibility-danger-risk-fossils-resources-equipment-technologyai_399089-6663.txt'
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:17:14.727350+02:00 (in 19.997999 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+INFO:apscheduler.executors.default:Running job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:17:14 SAST)" (scheduled at 2024-01-30 01:17:14.727350+02:00)
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-30 01:17:34.727350+02:00 (in 19.986616 seconds)
+INFO:apscheduler.executors.default:Job "main (trigger: interval[0:00:20], next run at: 2024-01-30 01:17:34 SAST)" executed successfully
+INFO:apscheduler.scheduler:Added job "main" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+DEBUG:apscheduler.scheduler:Looking for jobs to run
+DEBUG:apscheduler.scheduler:Next wakeup is due at 2024-01-31 00:00:00+02:00 (in 78673.780529 seconds)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m

@@ -1,0 +1,10 @@
+pandas
+ultralytics
+Flask
+shutill
+datetime
+logging
+flask_apscheduler
+os
+
+

@@ -123,7 +123,7 @@ def main():
 
 # Run the app
 if __name__ == "__main__":
-    sched.add_job(id='main', func=main, trigger='interval', seconds=20)
+    sched.add_job(id='main', func=main, trigger='cron', hour='00', minute='00', second='00')
     t = Temp(True)
     t.log.debug("test")
 
